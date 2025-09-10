@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-*DESCRIPTION*:
+##DESCRIPTION:
 
 For this internship task, I developed a File Handling Utility in Java that can perform essential operations such as reading, writing, and modifying text files. The primary objective of this project is to demonstrate a clear understanding of how file management can be implemented in Java using its standard input/output classes and libraries. The program provides a menu-driven interface for users to create files, write new content, append additional data, and read the existing content of text files. This project not only strengthens my skills in Java programming but also highlights the importance of handling persistent data in software development.
 
@@ -65,3 +65,7 @@ Conclusion
 This project gave me valuable exposure to Java’s file handling capabilities and taught me how to apply them effectively in real-world scenarios. Using VS Code as the development environment made the workflow seamless and efficient, while GitHub helped in maintaining version control and presenting the project in a professional manner. The skills and concepts learned during this task are directly applicable to many fields, including data science, web development, desktop software, and backend server systems.
 
 Through this internship task, I have not only implemented file operations in Java but also learned the importance of documentation, clarity, and project presentation, which are vital in professional software development.
+
+#OUTPUT
+
+<img width="856" height="765" alt="Image" src="https://github.com/user-attachments/assets/4836e19e-e533-4592-b63f-106c1b9aeae7" />
